@@ -32,7 +32,7 @@ Lacagta lagu isticmaalo mashruucan waa **Ethiopian Birr (ETB)**.
 ## How to Run
 
 1. Ku rakib Python 3 haddii uusan ku jirin kombiyuutarkaaga.
-2. Kaydi code-ka magaca `payment.py`.
+2. Kaydi code-ka magaca `ebbir.py`.
 3. Fur Terminal ama Command Prompt.
 4. Tag galka uu ku jiro faylka.
 5. Orod amarka:
