@@ -80,7 +80,7 @@ Ebbir-Payment-System/
 * PIN Validation
 * Account Registration
 
-## Author
+## Author : Ridwan Mouse Abdi
 
 Name:https://github.com/RidwanMouse/Ebbirpeyment
 
